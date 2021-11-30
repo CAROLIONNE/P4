@@ -688,6 +688,10 @@ a {
     font-weight: 500;
     font-style: initial;
 }
+.img-text-2{
+    color:#364577 !important;
+    font-size:1.5em;
+}
 p {
     font-size: 11px;
 }
