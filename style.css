@@ -676,7 +676,14 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
 }
-
+.img-text{
+    color: #364577 !important;
+    font-size:1.5em;
+}
+.name-client{
+    font-size: 1em;
+    color: #364577 !important;
+}
 p {
     font-size: 11px;
 }
