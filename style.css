@@ -679,10 +679,14 @@ a {
 .img-text{
     color: #364577 !important;
     font-size:1.5em;
+    font-style: italic;
+    font-weight: bold;
 }
 .name-client{
-    font-size: 1em;
+    font-size: 0.8em;
     color: #364577 !important;
+    font-weight: 500;
+    font-style: initial;
 }
 p {
     font-size: 11px;
