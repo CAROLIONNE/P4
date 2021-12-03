@@ -827,19 +827,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img_compressée/dots-bg.png");
+    background-image: url("img_webp/AnyConv.com__dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img_compressée/lines-h2-bg.png");
+    background-image: url("img_webp/AnyConv.com__lines-h2-bg.webp");
 }
 
 .bg-banniere {
-    background-image: url("img_compressée/la-chouette-agence-banniere.jpg");
+    background-image: url("img_webp/AnyConv.com__la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img_compressée/image-de-presentation.png");
+    background-image: url("img_webp/AnyConv.com__image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
