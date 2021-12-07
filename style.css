@@ -682,6 +682,7 @@ a {
     font-style: italic;
     font-weight: bold;
 }
+
 .name-client{
     font-size: 0.8em;
     color: #364577 !important;
@@ -760,6 +761,10 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width:95%;
+    height: 95%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .portfolio-row {
